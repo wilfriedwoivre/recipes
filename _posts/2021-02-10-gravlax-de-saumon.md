@@ -9,6 +9,11 @@ recipe:
     prep: 15 minutes
     idle: 1 à 4 jours
     cook: 1
+    ingredients: |-
+        * 1 pavé de saumon
+        * 2 CàS gros sel de guérande
+        * 1 Càc de baies roses
+        * 1 CàS d'aneth
 ---
 
 todo ....
