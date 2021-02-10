@@ -1,10 +1,10 @@
 <div class="d-none d-lg-block">
     <div class="card">
         <div class="card">
-            <div class="card-header">Durée</div>
+            <div class="card-header">Durées</div>
             <div class="card-body text-dark">
                 <ul>
-                    <li>{{ page.recipe.people }}</li>
+                    <li>{% include recipes-icon.html icon="people" %}<span>{{ page.recipe.people }}</span></li>
                     <li>{{ page.recipe.prep }}</li>
                     {% if page.recipe.idle != 0 %} <li>{{ page.recipe.idle }}</li> {% endif %}
                     {% if page.recipe.cook != 0 %} <li>{{ page.recipe.cook }}</li> {% endif %}
