@@ -16,6 +16,11 @@ title: Home
             <div class="row">
                 {% for post in site.posts %}
                 <div class="card blog-post" data-url="{{ post.url }}">
+                    <div class="card-img-top center">
+                        {% for category in post.categories %}
+                        {{ category }}
+                        {% endfor %}
+                    </div>
                     <div class="card-body center">
                         <h4 class="card-title">{{ post.title }}</h4>
                         <img class="card-body-img" src="{{ site.baseurl }}/images/{{ post.image }}" />
