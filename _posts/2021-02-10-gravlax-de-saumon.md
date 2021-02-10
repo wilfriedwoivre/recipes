@@ -16,9 +16,9 @@ recipe:
         * 1 Càc de baies roses
         * 1 CàS d'aneth
 ---
+![]({{ site.url }}/images/{{ page.image })
 
 Un plat parfait pour les fêtes de fin d'année. Une bonne recette que je fais tous les ans pour le Nouvel An
-
 
 **Réalisation**
 
@@ -27,4 +27,4 @@ Un plat parfait pour les fêtes de fin d'année. Une bonne recette que je fais t
 * Dans un poêlon, y placer le saumon, puis le paner avec le mélange précédent
 * Couvrir le tout avec un film étirable et le placer au réfrigérateur
 * Régulièrement retirer l'eau dûe à la cuisson par le sel
-* Après une durée entre 1 et 4 jours, sortez le saumon et lavez le à l'eau claire, coupez le en tranche et servez le avec un peu de gros sel, et un brin de ciboulette pour la décoration.
+* Après une durée entre 1 et 4 jours, sortez le saumon et lavez le à l'eau claire, coupez le en tranche, les saupoudrez d'aneth et servez le avec un peu de gros sel, et un brin de ciboulette pour la décoration.
