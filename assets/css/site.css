@@ -20,7 +20,15 @@ article .card-body img {
 .timing {
     list-style: none;
     display: inline;
+    margin:0px;
+    padding:0px;
 }
+
+.timing li {
+    display:inline;
+    margin-left: 10px;
+}
+
 
 .svg-icon-timings {
     width: 24px;
