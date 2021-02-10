@@ -1,17 +1,17 @@
-<div class="d-lg-block">
-        <div class="card">
-            <div class="card-body text-dark">
-                <ul class="timing">
-                    <li>{% include recipes-icon.html icon="people" %}<span>{{ page.recipe.people }}</span></li>
-                    <li>{% include recipes-icon.html icon="work" %}<span>{{ page.recipe.prep }}</span></li>
-                    {% if page.recipe.idle != 0 %} <li><span></span>{% include recipes-icon.html icon="idle" %}{{ page.recipe.idle }}</span></li> {% endif %}
-                    {% if page.recipe.cook != 0 %} <li><span></span>{% include recipes-icon.html icon="cook" %}{{ page.recipe.cook }}</span></li> {% endif %}
-                </ul>
-            </div>
-        </div>
-        <div class="card">
-        <div class="card-header">Ingrédients </div>
-        <div class="card-body text-dark">
-            {{ page.recipe.ingredients | markdownify }}
-        </div>
+
+<div class="card">
+    <div class="card-body text-dark">
+        <ul class="timing">
+            <li>{% include recipes-icon.html icon="people" %}<span>{{ page.recipe.people }}</span></li>
+            <li>{% include recipes-icon.html icon="work" %}<span>{{ page.recipe.prep }}</span></li>
+            {% if page.recipe.idle != 0 %} <li><span></span>{% include recipes-icon.html icon="idle" %}{{ page.recipe.idle }}</span></li> {% endif %}
+            {% if page.recipe.cook != 0 %} <li><span></span>{% include recipes-icon.html icon="cook" %}{{ page.recipe.cook }}</span></li> {% endif %}
+        </ul>
+    </div>
 </div>
+<div class="card">
+<div class="card-header">Ingrédients </div>
+<div class="card-body text-dark">
+    {{ page.recipe.ingredients | markdownify }}
+</div>
+
