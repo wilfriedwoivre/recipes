@@ -17,6 +17,16 @@ article .card-body img {
     max-width: 100%
 }
 
+.timing {
+    list-style: none;
+    display: inline;
+}
+
+.svg-icon-timings {
+    width: 24px;
+    vertical-align: sub;
+}
+
 .card-body-img {
     max-width: 300px;
 }
