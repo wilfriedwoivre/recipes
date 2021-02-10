@@ -1,0 +1,19 @@
+<div class="d-none d-lg-block">
+    <div class="card">
+        <div class="card">
+            <div class="card-header">Durée</div>
+            <div class="card-body text-dark">
+                <ul>
+                    <li>{{ post.recipe.people }}</li>
+                    <li>{{ post.recipe.prep }}</li>
+                    {% if post.recipe.idle != 0 %} <li>{{ post.recipe.idle }}</li> {% endif %}
+                    {% if post.recipe.cook != 0 %} <li>{{ post.recipe.cook }}</li> {% endif %}
+                </ul>
+            </div>
+        </div>
+
+        <div class="card-header">Ingrédients </div>
+        <div class="card-body text-dark">
+        </div>
+    </div>
+</div>
