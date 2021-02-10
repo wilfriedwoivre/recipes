@@ -16,7 +16,7 @@ recipe:
         * 1 Càc de baies roses
         * 1 CàS d'aneth
 ---
-![]({{ site.url }}/images/{{ page.image })
+![]({{ site.url }}/images/{{ page.image }})
 
 Un plat parfait pour les fêtes de fin d'année. Une bonne recette que je fais tous les ans pour le Nouvel An
 
