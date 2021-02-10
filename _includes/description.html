@@ -4,10 +4,10 @@
             <div class="card-header">Durée</div>
             <div class="card-body text-dark">
                 <ul>
-                    <li>{{ post.recipe.people }}</li>
-                    <li>{{ post.recipe.prep }}</li>
-                    {% if post.recipe.idle != 0 %} <li>{{ post.recipe.idle }}</li> {% endif %}
-                    {% if post.recipe.cook != 0 %} <li>{{ post.recipe.cook }}</li> {% endif %}
+                    <li>{{ page.recipe.people }}</li>
+                    <li>{{ page.recipe.prep }}</li>
+                    {% if page.recipe.idle != 0 %} <li>{{ page.recipe.idle }}</li> {% endif %}
+                    {% if page.recipe.cook != 0 %} <li>{{ page.recipe.cook }}</li> {% endif %}
                 </ul>
             </div>
         </div>
