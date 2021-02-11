@@ -25,6 +25,9 @@ urls:
     - text: Home
       url: /
       target: _self
+    - text: A propos
+      url: /about.html
+      target: _self
 
 permalink: '/:year/:month/:title'
 
