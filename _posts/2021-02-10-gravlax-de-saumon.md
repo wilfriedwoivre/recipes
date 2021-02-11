@@ -27,4 +27,4 @@ Un plat parfait pour les fêtes de fin d'année. Une bonne recette que je fais t
 * Dans un poêlon, y placer le saumon, puis le paner avec le mélange précédent
 * Couvrir le tout avec un film étirable et le placer au réfrigérateur
 * Régulièrement retirer l'eau dûe à la cuisson par le sel
-* Après une durée entre 1 et 4 jours, sortez le saumon et lavez le à l'eau claire, coupez le en tranche, les saupoudrez d'aneth et servez le avec un peu de gros sel, et un brin de ciboulette pour la décoration.
+* Après une durée entre 1 et 4 jours, sortez le saumon et lavez le à l'eau claire, coupez le en tranche, les saupoudrer d'aneth et servez le avec un peu de gros sel, et un brin de ciboulette pour la décoration.
