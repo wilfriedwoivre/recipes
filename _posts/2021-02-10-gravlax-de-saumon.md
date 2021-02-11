@@ -6,7 +6,7 @@ categories: [ "Entrée", "Fêtes" ]
 image: "2021/gravlax-de-saumon.png"
 recipe:
     people: 2
-    prep: 5 minutes
+    prep: 10 minutes
     idle: 1 à 4 jours
     cook: 0
     ingredients: |-
