@@ -32,6 +32,15 @@ layout: post
 title: $title
 date: $($date.ToString('yyyy-MM-dd'))
 categories: [  ]
+image: 
+recipe:
+    people: 
+    prep: 
+    idle: 
+    cook: 
+    ingredients: |-
+        * ingredient 1
+        * ingredient 2
 ---
 
 "
